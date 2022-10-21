@@ -20,6 +20,10 @@ namespace CalculatorJenkinsDemo
         {
             return i * j;
         }
+        public int Div(int i, int j)
+        {
+            return i / j;
+        }
     }
 
 }
